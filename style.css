@@ -35,7 +35,7 @@ body{
 }
 
 .search-icon{
-    color: #384974;
+    color: #e6e6e6;
     
 }
 body::-webkit-scrollbar {
@@ -47,11 +47,11 @@ body::-webkit-scrollbar {
     outline: none;
     height: 2.5rem;
     max-width: 30rem;
-    color: #384974;
+    color: #dfdfdf;
     font-weight: bold;
 }
 #search::placeholder{
-    color: #384974;
+    color: #000000;
 }
 #location::first-letter {
     text-transform:capitalize;
