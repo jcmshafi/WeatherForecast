@@ -2,7 +2,7 @@
 Weather forecast webapp using OpenWeather API
 
 # Hosting here:
-https://topurayhan007.github.io/Weather-Forecast/
+https://github.com/jcmshafi/WeatherForecast/
 
 
 ![Screenshot 1](media/1.png)
